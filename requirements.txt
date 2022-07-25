@@ -1,0 +1,8 @@
+dvc==2.13.0
+loguru==0.6.0
+matplotlib==3.5.2
+mlflow==1.27.0
+numpy==1.23.1
+pandas==1.4.3
+pillow==9.2.0
+pytorch-lightning==1.5.10
