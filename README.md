@@ -4,7 +4,11 @@
 
 This repository is an introductory example of MLflow and DVC usage for model experiment tracking.
 
-This example is referred by the series of article : TODO link to articles
+This example is referred by the series of article:
+- [Why data and model experiment tracking is important ? How tools like DVC and MLflow can solve this challenge](https://medium.com/hub-by-littlebigcode/mlops-why-data-and-model-experiment-tracking-is-important-e40e2fb9d74d)
+- [How DVC smartly manages your data sets for training your machine learning models on top of git](https://medium.com/hub-by-littlebigcode/mlops-how-dvc-smartly-manages-your-data-sets-for-training-your-machine-learning-models-on-top-of-b73857e54e52)
+- [How MLflow effortlessly tracks your experiments and helps your compare them](https://medium.com/hub-by-littlebigcode/mlops-how-mlflow-effortlessly-tracks-your-experiments-and-helps-you-compare-them-11da9be1fdb7)
+- Use case: Effortlessly track your model experiments with DVC and MLflow
 
 This repository only has a minimalist code base for starting to play with MLflow and DVC tools. Further instructions and
 good practices about how to manage your model experiment runs are explained in the articles.
@@ -34,13 +38,13 @@ Preferably install pytorch 1.8.2 (LTS) with pip and use CUDA compute platform if
 
 ### Set up a DVC data set registry for the "cats vs dogs" data set
 
-Please follow the instructions in the related article (TODO link) on DVC and how to set up a data set registry.
+Please follow the instructions in the related [article on DVC](https://medium.com/hub-by-littlebigcode/mlops-how-dvc-smartly-manages-your-data-sets-for-training-your-machine-learning-models-on-top-of-b73857e54e52) and how to set up a data set registry.
 
 ### Set up MLflow tracking server
 
 You can find further information about MLflow with:
 - [MLflow documentation](https://www.mlflow.org/docs/latest/index.html)
-- The article that overviews MLflow TODO article link
+- [My article that overviews MLflow](https://medium.com/hub-by-littlebigcode/mlops-how-mlflow-effortlessly-tracks-your-experiments-and-helps-you-compare-them-11da9be1fdb7)
 
 #### Locally in the Git repo
 
